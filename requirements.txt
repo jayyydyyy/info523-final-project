@@ -1,0 +1,4 @@
+gensim>=4.2.0
+ipykernel>=6.17.1
+bertopic[gensim]
+pyldavis
